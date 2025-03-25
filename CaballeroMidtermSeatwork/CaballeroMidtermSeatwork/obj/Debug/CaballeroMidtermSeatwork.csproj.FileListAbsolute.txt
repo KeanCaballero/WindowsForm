@@ -1,0 +1,10 @@
+C:\Users\ii412\Desktop\CaballeroMidtermSeatwork\CaballeroMidtermSeatwork\bin\Debug\CaballeroMidtermSeatwork.exe.config
+C:\Users\ii412\Desktop\CaballeroMidtermSeatwork\CaballeroMidtermSeatwork\bin\Debug\CaballeroMidtermSeatwork.exe
+C:\Users\ii412\Desktop\CaballeroMidtermSeatwork\CaballeroMidtermSeatwork\bin\Debug\CaballeroMidtermSeatwork.pdb
+C:\Users\ii412\Desktop\CaballeroMidtermSeatwork\CaballeroMidtermSeatwork\obj\Debug\CaballeroMidtermSeatwork.csproj.AssemblyReference.cache
+C:\Users\ii412\Desktop\CaballeroMidtermSeatwork\CaballeroMidtermSeatwork\obj\Debug\CaballeroMidtermSeatwork.Form1.resources
+C:\Users\ii412\Desktop\CaballeroMidtermSeatwork\CaballeroMidtermSeatwork\obj\Debug\CaballeroMidtermSeatwork.Properties.Resources.resources
+C:\Users\ii412\Desktop\CaballeroMidtermSeatwork\CaballeroMidtermSeatwork\obj\Debug\CaballeroMidtermSeatwork.csproj.GenerateResource.cache
+C:\Users\ii412\Desktop\CaballeroMidtermSeatwork\CaballeroMidtermSeatwork\obj\Debug\CaballeroMidtermSeatwork.csproj.CoreCompileInputs.cache
+C:\Users\ii412\Desktop\CaballeroMidtermSeatwork\CaballeroMidtermSeatwork\obj\Debug\CaballeroMidtermSeatwork.exe
+C:\Users\ii412\Desktop\CaballeroMidtermSeatwork\CaballeroMidtermSeatwork\obj\Debug\CaballeroMidtermSeatwork.pdb
